@@ -1,4 +1,4 @@
-<h2 align="center">Have a Nice! Day</h2>
+<h2 align="left">Vipin Kushwaha</h2>
 <h3 align="left">A passionate and ambitious Electronics Engineer, I am thrilled to embark on a journey of innovation and learning in the field of electronics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin8650&label=Profile%20views&color=0e75b6&style=flat" alt="vipin8650" /> </p>

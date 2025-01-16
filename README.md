@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Innovative Projects**
 
-- 👯 I’m looking to collaborate on **Open source**
-
 - 💬 Ask me about **Electronics, Arduino programming , Internet of Things( iot)**
 
 <h3 align="left">Connect with me:</h3>
